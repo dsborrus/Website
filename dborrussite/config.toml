@@ -1,0 +1,8 @@
+baseURL = 'http://dsborrus.github.io/'
+languageCode = 'en-us'
+title = 'Website de Daniel'
+theme="LoveIt"
+
+[params]
+  # LoveIt theme version
+  version = "0.2.X"
